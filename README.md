@@ -1,6 +1,10 @@
 # 🛢️ PGK 👶 🐍 workshop
 Introduction to python data analysis with an example analysing whether there is any correlation between seismicity and production/injection in an oil field.
 
+## ➡️ tldr; For this workshop, download the `PGKYP.ipynb` notebook file and the 3 `.csv` files and upload them into your Notebook environment.
+
+## Extended documentation:
+
 To run this script, you need a Python 3.x environment with **numpy**, **pandas** and **plotly**.
 
 ## 🛠️ Recommended set-up
@@ -18,7 +22,6 @@ In this workshop we use jupyter notebooks to easily run code and show results. Y
 2. A juypter command window will open, and shortly after a browser window will be opened that brings you to the jupyter home page.
 3. From this page, you can start a new notebook via the **New** button (top right), or you can upload and open an existing notebook file using **Upload**.
 4. You can also use **Upload** to upload data files that you are using in your scripts.
-5. ⚠️ **For this workshop, download the `PGKYP.ipynb` notebook file and the 3 `.csv` files and upload them into your Notebook environment.**
 
 For more info see https://jupyter-notebook.readthedocs.io/en/stable/
 
