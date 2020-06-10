@@ -17,7 +17,7 @@ import plotly.graph_objects as go
 msfile = st.sidebar.file_uploader("Microseismic data", type=['csv'])
 wellfile = st.sidebar.file_uploader("Well location data", type=['csv'])
 volfile = st.sidebar.file_uploader("Well volume data", type=['csv'])
-mmin = st.sidebar.number_input("Minumum magnitude: ", 0., 3., 1.)
+mmin = st.sidebar.slider("Minumum magnitude: ", 0., 3., 1.)
 
 # Load the data
 if msfile:
