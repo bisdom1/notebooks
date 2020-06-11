@@ -8,7 +8,7 @@ import pandas as pd # dataframe operations
 import plotly.express as px # plotting dataframes
 import plotly.graph_objects as go
 
-# Create a sidebar with 3 upload file requests
+# Load the csv files
 microseismic = pd.read_csv("microseismic.csv")
 well_locations = pd.read_csv("well_locations.csv")
 well_volumes = pd.read_csv("well_volumes.csv")
