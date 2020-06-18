@@ -16,6 +16,8 @@ There are multiple ways to install Python on your system, but for this workshop 
     3. Type `conda install plotly` and press enter, the **plotly** library and other dependencies will be automatically installed (if this does not work, try `pip install plotly` instead).
     4. Close the window once done.
     
+_Optional_: In addition, use step 3 to install streamlit (`pip install streamlit`), which is a package for building web apps.
+    
 ## 🖥️ Running python code
 In this workshop we use jupyter notebooks to easily run code and show results. You can use any text editor to write python scripts, but the interactive environment of these notebooks is a good place to start when you're new to Python. Note that Anaconda comes with a pre-installed python code editor called **Spyder** and with **jupyter** notebooks. Both can be found under the Anaconda program folder. To run jupyter:
 1. Look for/search for **jupyter** in your programs folder (it's installed under Anaconda).
