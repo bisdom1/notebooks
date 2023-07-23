@@ -1,7 +1,5 @@
-# 🛢️ PGK 👶 🐍 workshop
+# 🐍 workshop
 Introduction to python data analysis with an example analysing whether there is any correlation between seismicity and production/injection in an oil field.
-
-## ➡️ tldr; For this workshop, download and install Anaconda and download the `PGKYP.ipynb` notebook file and the 3 `.csv` files and upload them into your jupyter notebook environment.
 
 ## Extended documentation:
 
